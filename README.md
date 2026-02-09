@@ -1011,6 +1011,36 @@ Source repository: https://github.com/yung-megafone/Epstein-Files
   * VOL00009.DAT, VOL00009.OPT
   * Early seed; bandwidth limited — please be patient and report issues.
 
+##### Source C — non-flattened variant (93.1 + 12.4 + 77.4 GB)
+
+* **Torrent Magnets:**
+  **[LINK add](magnet:?xt=urn:btih:acb9cb1741502c7dc09460e4fb7b44eac8022906&dn=DataSet_9.tar.xz&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=http%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.alaskantf.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce&tr=udp%3A%2F%2Fmartin-gebhardt.eu%3A25%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=udp%3A%2F%2Fd40969.acod.regrucolo.ru%3A6969%2Fannounce&tr=udp%3A%2F%2F6ahddutb1ucc3cp.ru%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce)**
+
+  ```text
+  magnet:?xt=urn:btih:acb9cb1741502c7dc09460e4fb7b44eac8022906&dn=DataSet_9.tar.xz&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=http%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.alaskantf.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce&tr=udp%3A%2F%2Fmartin-gebhardt.eu%3A25%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=udp%3A%2F%2Fd40969.acod.regrucolo.ru%3A6969%2Fannounce&tr=udp%3A%2F%2F6ahddutb1ucc3cp.ru%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce
+  ```
+
+  **[LINK additions1](magnet:?xt=urn:btih:201d1873faa57bb3bfe1cb9b21884f7aadf1c8c8&dn=DataSet9-missing-in-tar-xz)**
+
+  ```text
+  magnet:?xt=urn:btih:201d1873faa57bb3bfe1cb9b21884f7aadf1c8c8&dn=DataSet9-missing-in-tar-xz
+  ```
+
+  **[LINK additions2](magnet:?xt=urn:btih:6fe71f9eaea264fa431aca37c28b52fb9685c44a&dn=DataSet9-missing-in-tar-xz-big_parts)**
+
+  ```text
+  magnet:?xt=urn:btih:6fe71f9eaea264fa431aca37c28b52fb9685c44a&dn=DataSet9-missing-in-tar-xz-big_parts
+  ```
+
+
+* **Notes:**
+
+  * 531,256 PDFs in base DataSet_9.tar.xz. **No NATIVEs.** - total 86.7 GB compressed .tar.xz
+  * guess: this Variant C might be a source of Variant B
+  * additions1 contains **additional** **NATIVE**s  - all smaller 1 GB, 2175 files and empty files (download failed or removed?), total 11.5 GB
+  * additions2 contains **additional** **NATIVE**s  - all bigger 1 GB, 41 files, total 72 GB
+  * additions 1 and 2 might be slow cause newly created
+
 
 #### Notes
 
